@@ -25,12 +25,8 @@ The dataset selected for this experiment is the customer information of an airli
 18.	AVG_INTERVAL : Average time interval between flights
 
 ## Recommendation
-1. First Group (73.74% - Inactive Customers):
-Recommendation : Focus on re-engagement strategies. Send targeted promotions or personalized offers to encourage them to make purchases. Improving communication channels and customer service may also help in bringing them back into active participation.
-2. Second Group (4.98% - Consistent Buyers):
-Recommendation : These consistent buyers are valuable despite their moderate purchasing frequency. Continue to nurture their loyalty through personalized offers, exclusive rewards programs, and proactive customer service. Consider upselling or cross-selling opportunities to increase their average spend per transaction.
-3. Third Group (20.59% - Occasional Purchasers):
-Recommendation : Given their occasional purchasing behavior, focus on maintaining their interest with targeted promotions during peak buying times or seasonal events. Enhance engagement through email or SMS campaigns that highlight limited-time offers or new product launches. 
-4. Fourth Group (0.68% - Elite/Loyal Customers):
-Recommendation : These loyal and elite customers are crucial to the business due to their high value and frequency of purchases. Continue to provide them with personalized VIP treatment, exclusive access to premium products or services, and rewards that recognize their loyalty
+1. First Group (73.74% - Inactive Customers): Focus on re-engagement strategies. Send targeted promotions or personalized offers to encourage them to make purchases. Improving communication channels and customer service may also help in bringing them back into active participation.
+2. Second Group (4.98% - Consistent Buyers): These consistent buyers are valuable despite their moderate purchasing frequency. Continue to nurture their loyalty through personalized offers, exclusive rewards programs, and proactive customer service. Consider upselling or cross-selling opportunities to increase their average spend per transaction.
+3. Third Group (20.59% - Occasional Purchasers): Given their occasional purchasing behavior, focus on maintaining their interest with targeted promotions during peak buying times or seasonal events. Enhance engagement through email or SMS campaigns that highlight limited-time offers or new product launches. 
+4. Fourth Group (0.68% - Elite/Loyal Customers): These loyal and elite customers are crucial to the business due to their high value and frequency of purchases. Continue to provide them with personalized VIP treatment, exclusive access to premium products or services, and rewards that recognize their loyalty
 
