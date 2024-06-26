@@ -16,7 +16,7 @@ The dataset selected for this experiment is the customer information of an airli
 9.	Age : Age
 10.	LOAD_TIME : Observation window end time
 11.	FLIGHT_COUNT : Number of flights
-12.	LAST_TO_END+ : Time from last flight to observation window end
+12.	LAST_TO_END : Time from last flight to observation window end
 13.	avg_discount : Average discount rate
 14.	SUM_YR_1 : Total fare for the first year
 15.	SUM_YR_2 : Total fare for the second year
